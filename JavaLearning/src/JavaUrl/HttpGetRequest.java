@@ -33,6 +33,7 @@ public class HttpGetRequest {
      * @param args
      * @throws Exception 
      */
+	//changed
     public static void main(String[] args) throws Exception {
     	Scanner urlId = new Scanner(System.in);
     	System.out.println("请输入ID：");
